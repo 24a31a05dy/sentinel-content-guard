@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Sports Content Monitor",
+  "description": "A digital asset monitoring system that detects unauthorized usage of sports content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "content-analysis"
+  ]
+}
